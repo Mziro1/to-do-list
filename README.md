@@ -1,4 +1,3 @@
 # to-do-list
-this is university website
-
+this is To-Do List
 
