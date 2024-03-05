@@ -2,4 +2,3 @@
 this is university website
 
 
-## project nots
